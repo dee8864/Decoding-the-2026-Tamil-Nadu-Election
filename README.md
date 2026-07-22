@@ -1,3 +1,5 @@
+![Dashboard Preview](https://github.com/dee8864/Decoding-the-2026-Tamil-Nadu-Election/blob/main/Decoding-the-2026-Tamil-Nadu-Election.png)
+
 # Decoding-the-2026-Tamil-Nadu-Election
 
 Numbers don't vote, but they reveal who did. In a state where 47.8% of reserved seats were decided by less than a five-percent margin, the story isn't about who won — it's about where the real fight happened.

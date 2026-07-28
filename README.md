@@ -67,6 +67,16 @@ Microsoft PowerPoint (or Google Slides)
 # What This Project Demonstrates
 This project demonstrates that I can take a real-world, politically sensitive dataset and turn it into a clear, engaging, and non-partisan story. It shows that I understand the difference between correlation and causation, and that I respect data limitations. It also proves that I can work within a tight rubric, prioritising storytelling over unnecessary complexity. For a recruiter, this project signals that I am not just a person who can write Python code — I am someone who can frame insights, communicate them to non-technical audiences, and deliver a complete product from raw data to final pitch.
 
+# Author
+
+**Deepanshu Sharma**
+
+MBA (Business Analytics)
+
+[LinkedIn](https://www.linkedin.com/in/deepanshu-sharma-8864ds/)
+
+[GitHub](https://github.com/dee8864)
+
 
 ![Dashboard Preview](https://github.com/dee8864/Decoding-the-2026-Tamil-Nadu-Election/blob/main/%23SLIDE_1%20Decoding-the-2026-Tamil-Nadu-Election.png)
 ![Dashboard Preview](https://github.com/dee8864/Decoding-the-2026-Tamil-Nadu-Election/blob/main/%23SLIDE_2%20Decoding-the-2026-Tamil-Nadu-Election.png)
